@@ -1,0 +1,10 @@
+debug/addfriend.o
+debug/main.o
+debug/registered.o
+debug/smilinghome.o
+debug/widget.o
+debug/qrc_smile.o
+debug/moc_addfriend.o
+debug/moc_registered.o
+debug/moc_smilinghome.o
+debug/moc_widget.o

@@ -1,0 +1,10 @@
+release/addfriend.o
+release/main.o
+release/registered.o
+release/smilinghome.o
+release/widget.o
+release/qrc_smile.o
+release/moc_addfriend.o
+release/moc_registered.o
+release/moc_smilinghome.o
+release/moc_widget.o
